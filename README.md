@@ -1,45 +1,35 @@
 <div align="center">
-
-<!-- <img src="https://avatars.githubusercontent.com/u/96060375?v=4" alt="Avatar" width="120" height="120" style="border-radius:50%;"> -->
-
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dhruva%20Kedlaya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 <br/>
-
-<svg width="460" height="60" viewBox="0 0 460 60" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00f0ff"/>
-      <stop offset="100%" style="stop-color:#a855f7"/>
-    </linearGradient>
-  </defs>
-  <text x="230" y="42" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="bold" fill="url(#g1)">Dhruva Kedlaya</text>
-</svg>
-
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&color=a855f7&size=18&center=true&vCenter=true&width=650&height=40&lines=Software+Developer+%7C+Always+Recalculating+the+Route+🚀" /> -->
-
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=800&lines=Software+Developer+%7C+Problem+Solver;AI+%7C+Web+Development+%7C+Cybersecurity;Building+the+Future%2C+One+Line+at+a+Time;No+Failure.+Only+Recalculating+the+Route+%F0%9F%9A%80" alt="Typing SVG" />
+<br/><br/>
+<!-- Social Badges with Hover Effects -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhruva-kedlaya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dhruvakedlaya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/dhruvakedlaya">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  </a>
+  <a href="https://dhruvakedlaya.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" alt="Portfolio"/>
+  </a>
+</p>
 <br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&color=36BCF7&size=20&center=true&vCenter=true&width=800&duration=2500&pause=1000&lines=Software+Developer;Learner+%7C+Problem+Solver;AI+%7C+Web+%7C+Cybersecurity;No+Failure+Only+Recalculating+the+Route+🚀" />
-
+<!-- Status Badge -->
+<img src="https://img.shields.io/badge/🚀_Status-Actively_Seeking_Opportunities-00FF41?style=for-the-badge&labelColor=0d1117&color=00FF41" alt="Status"/>
+<br/>
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=dhruvakedlaya&label=Profile%20Views&color=00f0ff&style=flat-square" alt="Profile Views" />
 <br/><br/>
-
-<a href="https://www.linkedin.com/in/dhruva-kedlaya/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" />
-</a>
-<a href="mailto:dhruvakedlaya@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-white?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" />
-</a>
-<a href="https://github.com/dhruvakedlaya">
-  <img src="https://img.shields.io/badge/GitHub-Profile-white?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=24292e" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Status-Actively%20Seeking%20Opportunities-39ff14?style=for-the-badge&labelColor=374151&color=39ff14" />
-
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-
----
-
 ## 💫 About Me
 
 <div align="left">
@@ -133,7 +123,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvakedlaya&layout=compact&theme=radical&bg_color=0d1117&border_color=00f0ff&title_color=00f0ff&text_color=e8f4f8&border_radius=12" alt="Top Languages" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvakedlaya&layout=compact&theme=radical&bg_color=0d1117&border_color=00f0ff&title_color=00f0ff&text_color=e8f4f8&border_radius=12" alt="Top Languages" /> -->
 
 </div>
 
